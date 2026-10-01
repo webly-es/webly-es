@@ -15,6 +15,10 @@
 
 </div>
 
+<div align="center">
+<img src="./assets/matrix-tux.svg" width="100%" alt="Terminal estilo Matrix dibujando a Tux con comandos de Linux"/>
+</div>
+
 ---
 
 ```bash
